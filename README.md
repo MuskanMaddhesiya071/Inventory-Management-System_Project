@@ -3,7 +3,7 @@
 A simple yet effective command-line inventory management system built with Python, using JSON for data storage and retrieval.
 
 [Screenshot 2025-05-05 211151](https://github.com/user-attachments/assets/c97e7cc9-30f5-41c9-bdbf-d08945960297)
-
+)
 
 ##  Overview
 
