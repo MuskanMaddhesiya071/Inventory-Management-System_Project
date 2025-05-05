@@ -9,11 +9,6 @@ A simple yet effective command-line inventory management system built with Pytho
 
 This inventory management system allows store owners to manage their product inventory through a simple command-line interface. The system stores product information in a JSON file and provides functionalities for viewing products, making purchases, and automatically updating inventory levels.
 
-### System Flowchart
-![Inventory System Flowchart](flowchart.png)
-
-*The flowchart above illustrates how the system processes transactions from start to finish.*
-
 ##  Features
 
 - **Product Catalog Display**: View all available products with their IDs, names, prices, and quantities
